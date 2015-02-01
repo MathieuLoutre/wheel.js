@@ -1,0 +1,17 @@
+{
+	"name": "wheel.js",
+	"version": "0.1.0",
+	"homepage": "http://github.com/MathieuLoutre/wheel.js/",
+	"authors": [
+		"Mathieu Triay <mathieu.triay@gmail.com>"
+	],
+	"description": "Clicking wheel control interface",
+	"main": ["index.js"],
+	"keywords": [
+		"wheel",
+		"knob",
+		"interface",
+		"control"
+	],
+	"license": "MIT"
+}
